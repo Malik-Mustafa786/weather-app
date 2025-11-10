@@ -1,0 +1,16 @@
+<!-- Save as: favicon-dark.svg -->
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" role="img" aria-label="Breeze of Barakah dark icon">
+  <rect width="64" height="64" fill="transparent"/>
+  
+  <!-- Soft sun glow -->
+  <circle cx="32" cy="22" r="12" fill="#FFE57F"/>
+  
+  <!-- Crescent shape -->
+  <path d="M44 18
+           A18 18 0 1 0 20 40
+           A10 10 0 1 1 44 18 Z"
+        fill="#121212" opacity="0.95"/>
+  
+  <!-- Warm sun core -->
+  <circle cx="32" cy="22" r="6" fill="#FFB74D"/>
+</svg>
